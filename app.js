@@ -1,7 +1,8 @@
 hello from the new branch!
 
+
 to do:
-eat
-sleep
-code
-repeat
+watch TV
+play video games
+eat pizza
+
